@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Weapons
+  - Enemy
+  - PlayerGuard
+  - PlayerAttack
+  - EnemyAttack
+  - Platform
+  - DeathEnemy
+  - DeathZone
+  - EnemySpawnSequent
+  - EnemyWeakPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - PlayerAttack
+  - PlayerGuard
+  - PlayerParry
+  - PlayerFallDetect
+  - Enemy
+  - EnemyAttack
+  - EnemyCounter
+  - EnemyParry
+  - EnemyJumpDetect
+  - EnemyFallDetect
+  - EnemyAttackDetect
+  - Obstacle
+  - EnemyCheck
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: DeepBackground
+    uniqueID: 3041966565
+    locked: 0
+  - name: BackFx
+    uniqueID: 2583413273
+    locked: 0
+  - name: Decoration
+    uniqueID: 2387623539
+    locked: 0
+  - name: Enemy
+    uniqueID: 3005502027
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 663441435
+    locked: 0
+  - name: FontFx
+    uniqueID: 413116687
+    locked: 0
+  - name: UI
+    uniqueID: 3022868079
+    locked: 0

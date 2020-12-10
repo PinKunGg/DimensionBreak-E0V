@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4260e843eee6464094b95f5d184d5b9, type: 3}
+  m_Name: Sword1
+  m_EditorClassIdentifier: 
+  Name: Sword1
+  WeaponIndex: 1
+  icon: {fileID: 21300000, guid: 37e975ac5f4bf864e8ed06c0920c28ff, type: 3}
+  icon_Use: {fileID: 21300000, guid: d8b1d718e4dca1a449f68787aa1ab8bb, type: 3}
+  icon_NotUse: {fileID: 21300000, guid: 16c52733c94515b439b7b025eb444bae, type: 3}
+  ObjectType: Close_Range
+  Damage: 50
+  FixBullet: 3
+  Knoback: 10
+  DualWeapon: 0
+  Obj_Prefab: {fileID: 374471640884191222, guid: 19c626183997e5749ac146aca68aa98f,
+    type: 3}
+  Drop_Prefab: {fileID: 2029977431807145302, guid: 99bd89df5e8aabf48a98e2ebe10c41a1,
+    type: 3}

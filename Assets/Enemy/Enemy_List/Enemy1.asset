@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e4e28b7d6ada454690e880a17848424, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  Name: Monster1
+  FlyAble: 0
+  Index: 1
+  MaxHp: 100
+  DefValue: 30
+  ProjectileDef: 10
+  MeleeDef: 30
+  Damage: 5
+  AttackDis: 2
+  DetectRange: 8
+  RetreatDis: 5
+  speed: 6
+  JumpForce: 10
+  DamageInterceptChance: 0.6

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 1be8ff5d10e94e04b9ef7c83fdf3cbf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7720991411224854074
+    second: Monster1_Rigging_Damage_0
+  - first:
+      213: -3978368254296754097
+    second: Monster1_Rigging_Damage_1
+  - first:
+      213: -3468388061774477143
+    second: Monster1_Rigging_Damage_2
+  - first:
+      213: -62788788294089964
+    second: Monster1_Rigging_Damage_3
+  - first:
+      213: -8205309493722744298
+    second: Monster1_Rigging_Damage_4
+  - first:
+      213: 2030882143210420410
+    second: Monster1_Rigging_Damage_5
+  - first:
+      213: -9018227769809535180
+    second: Monster1_Rigging_Damage_6
+  - first:
+      213: -4113119166678071649
+    second: Monster1_Rigging_Damage_7
+  - first:
+      213: -416204810604401770
+    second: Monster1_Rigging_Damage_8
+  - first:
+      213: 6892546455171532732
+    second: Monster1_Rigging_Damage_9
+  - first:
+      213: -4593603098457215913
+    second: Monster1_Rigging_Damage_10
+  - first:
+      213: -5897115932208305037
+    second: Monster1_Rigging_Damage_11
+  - first:
+      213: -3804267607291643390
+    second: Monster1_Rigging_Damage_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 168
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e36ebe7c8762b60800000000000000
+      internalID: 7720991411224854074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 165
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4873f8a62ff9c8c0800000000000000
+      internalID: -3978368254296754097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_2
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 166
+        width: 115
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80ab22f6fcddfc0800000000000000
+      internalID: -3468388061774477143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 120
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138ad10eede02ff0800000000000000
+      internalID: -62788788294089964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 120
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61af3823d72e02e80800000000000000
+      internalID: -8205309493722744298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 122
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8bdb69c842f2c10800000000000000
+      internalID: 2030882143210420410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 122
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f70fcbf91d8d280800000000000000
+      internalID: -9018227769809535180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_7
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 97
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f968d4ff8e34be6c0800000000000000
+      internalID: -4113119166678071649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 97
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bad1e0ee7593af0800000000000000
+      internalID: -416204810604401770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 99
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb780629b7e37af50800000000000000
+      internalID: 6892546455171532732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_10
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 98
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce255e15e3040c0800000000000000
+      internalID: -4593603098457215913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c6d6dcd4c392ea0800000000000000
+      internalID: -5897115932208305037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster1_Rigging_Damage_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 81
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a3bdc54c6843bc0800000000000000
+      internalID: -3804267607291643390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

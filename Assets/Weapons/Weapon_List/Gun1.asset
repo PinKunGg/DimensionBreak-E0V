@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4260e843eee6464094b95f5d184d5b9, type: 3}
+  m_Name: Gun1
+  m_EditorClassIdentifier: 
+  Name: Gun1
+  WeaponIndex: 3
+  icon: {fileID: 21300000, guid: 5eaf6d96b15cbc04c94a6284262685e5, type: 3}
+  icon_Use: {fileID: 21300000, guid: bf4b317d193462742bb9b660a3a77ba2, type: 3}
+  icon_NotUse: {fileID: 21300000, guid: 6ef1dfab2fc596b4c90a0da165acfe32, type: 3}
+  ObjectType: Long_Range
+  Damage: 15
+  FixBullet: 7
+  Knoback: 0
+  DualWeapon: 1
+  Obj_Prefab: {fileID: 3134049554407738369, guid: 483326e9a89a4b64e80e7cb4b7258ae1,
+    type: 3}
+  Drop_Prefab: {fileID: 4557348141376122511, guid: 142f7ef5615c84c438d6c45985b34623,
+    type: 3}
