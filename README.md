@@ -13,4 +13,7 @@ Number of Players: Single Player  <br />
 สำหรับ Core Feature ของเกมนั้นจะเป็นการที่ผู้เล่นนั้นมี Skill "การหยุดเวลา" โดยจะมีระยะเวลาที่จำกัดในการใช้งานในแต่ละครั้ง  <br />
 <br />
 :: Gameplay Preview ::<br />
-[![Gameplay](https://i.imgur.com/vQAFBlG.jpg)](https://drive.google.com/file/d/1nqaQqmDtZwiVxEzBqbFCNBErDRDOGVtP/view?usp=sharing)
+[![Gameplay](https://i.imgur.com/vQAFBlG.jpg)](https://drive.google.com/file/d/1nqaQqmDtZwiVxEzBqbFCNBErDRDOGVtP/view?usp=sharing)  <br />
+<br />
+:: DemoRelease :: <br />
+https://drive.google.com/file/d/11rYwhYpkHtC0E_cP-ie0UvChJiru6N3J/view
