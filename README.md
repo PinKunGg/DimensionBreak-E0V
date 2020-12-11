@@ -18,5 +18,5 @@ Number of Players: Single Player  <br />
 :: DemoRelease :: <br />
 https://drive.google.com/file/d/11rYwhYpkHtC0E_cP-ie0UvChJiru6N3J/view <br />
 <br />
-:: GameControl ::
-![Basic Control](blob:https://imgur.com/07b17047-4e29-441b-b486-e66455b9f444)
+:: GameControl :: <br />
+![Basic Control](https://i.imgur.com/aBXhXpS.jpg)
