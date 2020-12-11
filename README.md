@@ -2,7 +2,7 @@
 2D Hack &amp; Slash (Year3 Term1 Final Exam)
 <br />
 <br />
-Project Name: DimensionBreak : E0V <br />
+Project Name: DimensionBreak-E0V <br />
 Target Platforms: PC, Andriod <br />
 Genere : 2D Hack & Slash, Futuristic Apocalypse <br />
 Number of Players: Single Player  <br />
