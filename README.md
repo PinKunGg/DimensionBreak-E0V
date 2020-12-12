@@ -16,7 +16,8 @@ Number of Players: Single Player  <br />
 [![Gameplay](https://i.imgur.com/vQAFBlG.jpg)](https://drive.google.com/file/d/1nqaQqmDtZwiVxEzBqbFCNBErDRDOGVtP/view?usp=sharing){:target="_blank"}  <br />
 <br />
 :: DemoRelease :: <br />
-[go(]https://drive.google.com/file/d/11rYwhYpkHtC0E_cP-ie0UvChJiru6N3J/view){:target="_blank"} <br />
+<a href="https://drive.google.com/file/d/11rYwhYpkHtC0E_cP-ie0UvChJiru6N3J/view" target="_blank">Hello, world!</a>  <br />
+
 <br />
 :: GameControl :: <br />
 ![Basic Control](https://i.imgur.com/aBXhXpS.jpg){:target="_blank"}
