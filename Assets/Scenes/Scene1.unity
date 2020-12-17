@@ -1590,6 +1590,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3750244dc0105ec40b101eb59c13eae0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  RegenRate: 0.05
   GuardBar: {fileID: 1840331051}
   SkillManager: {fileID: 519010153}
   Character_SCAO: {fileID: 11400000, guid: 149995d5c3931dc48895a3ac0c097f1e, type: 2}

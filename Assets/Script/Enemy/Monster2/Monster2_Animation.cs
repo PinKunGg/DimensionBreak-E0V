@@ -16,13 +16,14 @@ public class Monster2_Animation : MonoBehaviour
     private Vector2 IncommingHitPos, PlayerVector;
     private bool isAttack, isAttack_Pat3, isAttack_Pat3Going, isAttack_Pat3SetUp;
     private string defaultTag;
-    private float AttackRandom, PlayerAttackPat, AttackPat3_AttackRange;
+    private float AttackRandom, PlayerAttackPat;
     #endregion
 
     #region SerizlizeField variable
     [SerializeField] private Enemy_SCAO Enemy_SCAO;
     [SerializeField] private Monster2_Attack Monster2_Attack;
     [SerializeField] private Collider2D BodyCollider;
+    [SerializeField] private float AttackPat3_AttackRange;
     #endregion
 
     #region Class property

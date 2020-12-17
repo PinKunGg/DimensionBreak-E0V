@@ -6,11 +6,12 @@ using UnityEngine.UI;
 public class Guard_Skill : MonoBehaviour
 {
     #region private variable
-    private float GuardMaxValue, RegenRate = 0.01f;
+    private float GuardMaxValue;
     private bool isRegen, isPlayGuardBreakSound, isPlayGuardCreateSound;
     #endregion
 
     #region SerializeField variable
+    [SerializeField] private float RegenRate = 0.01f;
     [SerializeField] private Slider GuardBar;
     [SerializeField] private SkillManager SkillManager;
     [SerializeField] private Character_SCAO Character_SCAO;
