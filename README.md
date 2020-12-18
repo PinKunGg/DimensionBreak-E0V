@@ -7,6 +7,9 @@ Target Platforms: PC, Andriod <br />
 Genere : 2D Hack & Slash, Futuristic Apocalypse <br />
 Number of Players: Single Player  <br />
 <br />
+:: Trello Board :: <br />
+https://trello.com/b/TQmwVzlz/dimension-break-e0v<br />
+<br />
 :: Intro :: <br />
 เกม Dimension Break นั้นเป็นเกม 2D Hack & Slash ในยุค Futuristic Apocalypse <br />
 โดย Core Mechanic ของเกมนั้นจะเป็นการที่ให้ผู้เล่นนั้นออกสำรวจพื้นที่ต่าง ๆ ในโลกของเกมเพื่อที่จะนำทรัพยาการในพื้นที่ต่าง ๆ นั้นมาพัฒนาตัวละครของผู้เล่น  <br />
