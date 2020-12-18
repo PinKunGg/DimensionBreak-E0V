@@ -18,7 +18,7 @@ https://trello.com/b/TQmwVzlz/dimension-break-e0v<br />
 :: Gameplay Preview ::<br />
 [![Gameplay](https://i.imgur.com/vQAFBlG.jpg)](https://drive.google.com/file/d/1nqaQqmDtZwiVxEzBqbFCNBErDRDOGVtP/view?usp=sharing)  <br />
 <br />
-:: DemoRelease :: <br />
+:: Prototype Release :: <br />
 https://drive.google.com/file/d/11rYwhYpkHtC0E_cP-ie0UvChJiru6N3J/view <br />
 <br />
 :: GameControl :: <br />
