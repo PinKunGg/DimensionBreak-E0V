@@ -32,8 +32,6 @@ public class GM : MonoBehaviour
         {
             PauseUI.SetActive(false);
         }
-
-        Cursor.lockState = CursorLockMode.Confined;
     }
 
     private void OnEnable()
@@ -85,14 +83,12 @@ public class GM : MonoBehaviour
             PauseUI.SetActive(true);
             saveTimeScale = Time.timeScale;
             Time.timeScale = 0f;
-            Cursor.lockState = CursorLockMode.None;  
         }
         else
         {
             MainUI.SetActive(true);
             PauseUI.SetActive(false);
             Time.timeScale = saveTimeScale;
-            Cursor.lockState = CursorLockMode.Confined;
         }
     }
 }
